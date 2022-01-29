@@ -1,0 +1,7 @@
+
+R
+java:S1854"<Remove this useless assignment to local variable "myDouble".(Ü¶—
+C
+java:S1481"-Remove this unused "myDouble" local variable.(Ü¶—
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Èîô’
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ–”ùÿÿÿÿ
